@@ -387,6 +387,7 @@ def seite_vergleich(D, version):
 <div class="karte"><div class="icicles" id="icicles"></div></div>""", True, '<span id="aufteilungZus"></span>')
     inhalt += abschnitt("tabelle-teil", "Tabelle", f"""<div class="tab-umschalter"><div class="grp"><b>Darstellung</b><div class="chips" id="tabArt"><button type="button" data-wert="ebene">Ebene</button><button type="button" data-wert="baum">Baum</button></div></div>
 <p class="leise klein" style="margin:0;max-width:60ch">Ebene: die geöffnete Stufe mit Differenzen, Klick geht tiefer. Baum: alle Stufen, jede aufklappbar, Kommentare der Dienststellen unter der Zeile.</p></div>
+<p class="unter klein" id="tabelleBreit" hidden>Die Tabelle ist breiter als das Fenster: seitlich scrollen oder das Fenster vergrössern.</p>
 <div class="karte" id="tabelle" style="overflow-x:auto"></div>""")
     return seite_html("vergleich", "Vergleich bis zum Konto", "Budget und Staatsrechnung des Kantons Schaffhausen im Vergleich: bis zu drei Jahre, nach Dienststelle oder Sachgruppe, bis zum einzelnen Konto und Investitionsvorhaben, mit den Kommentaren der Dienststellen.",
                       inhalt, D, version, [("jahre", "Jahre wählen"), ("kennzahlen", "Kennzahlen"), ("aufteilung", "Aufteilung"), ("tabelle-teil", "Tabelle")], grafik=True)

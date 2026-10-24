@@ -454,3 +454,7 @@ table.baum td.name{min-width:240px}
 .steuer .grp{min-width:0;max-width:100%}
 #kzBereich{width:100%;max-width:440px;text-overflow:ellipsis}
 @media (max-width:640px){ .leiste .suche ul.global{position:fixed;left:8px;right:8px;top:calc(var(--leiste-h) - 2px);max-height:calc(100vh - var(--leiste-h) - 16px)} }
+/* Tabelle im Vergleich: die Kopfzeile der ersten Spalte darf umbrechen, sonst bestimmt sie die Mindestbreite der Tabelle */
+table.tab th:first-child{white-space:normal}
+@media (max-width:1280px){ table.tab{font-size:13px} table.tab th.r,table.tab td.r{padding-left:7px} table.baum td.name{min-width:200px} .mk{font-size:11px;padding:0 6px} }
+#tabelleBreit{margin:0 0 8px}

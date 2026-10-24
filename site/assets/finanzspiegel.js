@@ -2366,6 +2366,14 @@ function vergleichInit(){
   $$('#schnell button').forEach(b => b.addEventListener('click', () => { st.sel = b.dataset.sel.split(','); st.pfad = []; st.markiert = null; neu(); }));
   $('#csvKnopf').addEventListener('click', csv);
   NACH_OEFFNEN.aufteilung = [() => zeichneDrill()];
+  // Hinweis, wenn die Tabelle trotzdem breiter als ihre Karte ist (schmales Fenster)
+  const tb = $('#tabelle'), hw = $('#tabelleBreit');
+  if(tb && hw){
+    const pr = () => { hw.hidden = !(tb.clientWidth > 0 && tb.scrollWidth > tb.clientWidth + 2); };
+    new MutationObserver(() => requestAnimationFrame(pr)).observe(tb, {childList: true, subtree: true});
+    window.addEventListener('resize', pr);
+    if(window.ResizeObserver) new ResizeObserver(pr).observe(tb);
+  }
 }
 function befundeInit(){
   const ds = $('#bfDs');
