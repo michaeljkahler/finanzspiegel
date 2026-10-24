@@ -1,5 +1,5 @@
 {
- "hinweis": "Bekannte PDF auf sh.ch (Finanzverwaltung, Seiten Budget und Staatsrechnung HRM2; Budget 2027 zuerst in der Medienmitteilung der Staatskanzlei vom 22.09.2026). Der Auftrag kantonsrat-dashboard-update vergleicht die Dateiliste damit; neue Titel sind ein neues Budget, eine beschlossene Fassung oder eine neue Staatsrechnung. Adresse einer Datei: https://sh.ch/CMS/get/file/<uuid>.",
+ "hinweis": "Bekannte PDF auf sh.ch (Finanzverwaltung, Seiten Budget und Staatsrechnung HRM2; Budget 2027 zuerst in der Medienmitteilung der Staatskanzlei vom 22.09.2026). Der Auftrag «Finanzspiegel Kontrolle» (docs/AUFTRAG_kontrolle.md) vergleicht die Dateiliste damit; neue Titel sind ein neues Budget, eine beschlossene Fassung oder eine neue Staatsrechnung. Adresse einer Datei: https://sh.ch/CMS/get/file/<uuid>.",
  "seiten": {
   "budget": "https://sh.ch/CMS/Webseite/Kanton-Schaffhausen/Beh-rde/Verwaltung/Finanzdepartement/Finanzverwaltung/Budget-2288266-DE.html",
   "staatsrechnung": "https://sh.ch/CMS/Webseite/Kanton-Schaffhausen/Beh-rde/Verwaltung/Finanzdepartement/Finanzverwaltung/Staatsrechnung-HRM2--ab-2018--2288272-DE.html",
