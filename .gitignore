@@ -1,0 +1,20 @@
+# Zugangsdaten. Muss ganz oben stehen und darf nie entfernt werden: das
+# Repository ist öffentlich.
+data/github_zugang.json
+*_zugang.json
+.env
+*.pem
+*.key
+
+# PDF des Kantons: gross, jederzeit auf sh.ch abrufbar (Adressen in finanzspiegel/daten/quellen.json)
+finanzspiegel/daten/pdf/
+
+# Python
+__pycache__/
+*.pyc
+
+# Arbeitsstände und Ausgaben aus Cowork-Sitzungen
+ref/
+Claude outputs/
+*vertraulich*
+*intern*

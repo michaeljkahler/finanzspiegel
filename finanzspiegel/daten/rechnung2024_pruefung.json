@@ -1,0 +1,32 @@
+{
+ "pdf": "rechnung2024.pdf",
+ "er": {
+  "konten": 2986,
+  "dienststellen": 124,
+  "fonds": 26,
+  "spalten": [
+   "rechnung_2024",
+   "budget_2024",
+   "rechnung_2023"
+  ],
+  "summen": 474,
+  "abweichend": 0,
+  "kommentare": 784
+ },
+ "ir": {
+  "konten": 144,
+  "vorhaben": 102,
+  "zeilen": 144,
+  "gliederung": "Vorhaben > Konto",
+  "spalten": [
+   "rechnung_2024_ausgaben",
+   "rechnung_2024_einnahmen",
+   "budget_2024_ausgaben",
+   "budget_2024_einnahmen",
+   "rechnung_2023_ausgaben",
+   "rechnung_2023_einnahmen"
+  ],
+  "summen": 198,
+  "abweichend": 0
+ }
+}

@@ -1,0 +1,53 @@
+{
+ "testphase": false,
+ "melden": {
+  "schluessel": "4a7966d4-e592-41a0-a21e-e915889056a1"
+ },
+ "whatsapp_kanal": "https://whatsapp.com/channel/0029VbDT16R0LKZChkAwY01o",
+ "social": {
+  "handle": "@politspiegel.sh",
+  "kanaele": [
+   {
+    "kanal": "whatsapp",
+    "name": "Politspiegel Schaffhausen auf WhatsApp",
+    "label": "WhatsApp",
+    "url": "https://whatsapp.com/channel/0029VbDT16R0LKZChkAwY01o"
+   },
+   {
+    "kanal": "instagram",
+    "name": "Politspiegel Schaffhausen auf Instagram",
+    "label": "Instagram",
+    "url": "https://www.instagram.com/politspiegel.sh/"
+   },
+   {
+    "kanal": "tiktok",
+    "name": "Politspiegel Schaffhausen auf TikTok",
+    "label": "TikTok",
+    "url": "https://www.tiktok.com/@politspiegel.sh"
+   },
+   {
+    "kanal": "facebook",
+    "name": "Politspiegel Schaffhausen auf Facebook",
+    "label": "Facebook",
+    "url": "https://www.facebook.com/122097032019472255"
+   },
+   {
+    "kanal": "youtube",
+    "name": "Politspiegel Schaffhausen auf YouTube",
+    "label": "YouTube",
+    "url": "https://www.youtube.com/@PolitspiegelSchaffhausen"
+   }
+  ]
+ },
+ "impressum": {
+  "verantwortlich": "Michael Kahler",
+  "mail": [
+   "politspiegel.sh",
+   "gmail.com"
+  ],
+  "text": "Privates, nichtkommerzielles Projekt. Es steht in keinem Zusammenhang mit dem Kantonsrat oder der Verwaltung des Kantons Schaffhausen. Rückmeldungen, auch von den Komitees, an diese Adresse; Korrekturen werden sichtbar protokolliert.",
+  "datenschutz": "Diese Seiten senden nichts: kein Konto, kein Cookie, kein Zählpixel, keine Auswertung. Die Seiten liegen bei GitHub Pages; GitHub führt als Betreiber der Server eigene Zugriffsprotokolle, auf die der Herausgeber keinen Zugriff hat."
+ },
+ "politspiegel_url": "https://michaeljkahler.github.io/politspiegel/",
+ "finanzspiegel_url": "https://michaeljkahler.github.io/finanzspiegel/"
+}

@@ -1,0 +1,13 @@
+{
+ "hinweis": "Eckwerte der Staatsrechnungen in Millionen Franken, abgeschrieben aus der Tabelle «Eckwerte mit Budget- und Vorjahresvergleich» des jeweiligen Berichts (Ziffer 1.7 oder 1.8). daten.py vergleicht damit die Summen aus den Detailzahlen (Toleranz 0.1 Mio. wegen Rundung). Budget: ohne Nachtragskredite.",
+ "werte": {
+  "r21": {"auf": 869.7, "ert": 940.0, "ord": 70.3, "ao": -32.5, "gesamt": 38.3, "netInv": 30.6, "quelle": "Staatsrechnung 2021, Ziffer 1.8, S. 9"},
+  "b21": {"auf": 774.7, "ert": 751.5, "ord": -23.3, "ao": 3.6, "gesamt": -12.6, "netInv": 35.2, "quelle": "Staatsrechnung 2021, Ziffer 1.8, S. 9"},
+  "r22": {"auf": 870.1, "ert": 931.6, "ord": 61.6, "ao": -38.4, "gesamt": 7.4, "netInv": 29.8, "quelle": "Staatsrechnung 2022, Ziffer 1.8, S. 9"},
+  "b22": {"auf": 797.7, "ert": 764.7, "ord": -32.9, "ao": 27.9, "gesamt": -12.9, "netInv": 26.8, "quelle": "Staatsrechnung 2022, Ziffer 1.8, S. 9"},
+  "r23": {"auf": 903.5, "ert": 911.1, "ord": 7.5, "ao": 12.8, "gesamt": 4.8, "netInv": 21.8, "quelle": "Staatsrechnung 2023, Ziffer 1.7, S. 8"},
+  "b23": {"auf": 920.7, "ert": 854.7, "ord": -66.0, "ao": 55.6, "gesamt": -10.9, "netInv": 49.7, "quelle": "Staatsrechnung 2023, Ziffer 1.7, S. 8"},
+  "r24": {"auf": 967.4, "ert": 991.1, "ord": 23.7, "ao": -4.3, "gesamt": 19.1, "netInv": 36.3, "quelle": "Staatsrechnung 2024, Ziffer 1.7, S. 9"},
+  "b24": {"auf": 958.2, "ert": 894.1, "ord": -64.1, "ao": 72.9, "gesamt": 12.3, "netInv": 59.2, "quelle": "Staatsrechnung 2024, Ziffer 1.7, S. 9"}
+ }
+}

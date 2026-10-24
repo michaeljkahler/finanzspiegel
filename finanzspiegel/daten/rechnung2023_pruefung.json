@@ -1,0 +1,32 @@
+{
+ "pdf": "rechnung2023.pdf",
+ "er": {
+  "konten": 2947,
+  "dienststellen": 124,
+  "fonds": 26,
+  "spalten": [
+   "rechnung_2023",
+   "budget_2023",
+   "rechnung_2022"
+  ],
+  "summen": 474,
+  "abweichend": 0,
+  "kommentare": 759
+ },
+ "ir": {
+  "konten": 133,
+  "vorhaben": 87,
+  "zeilen": 133,
+  "gliederung": "Vorhaben > Konto",
+  "spalten": [
+   "rechnung_2023_ausgaben",
+   "rechnung_2023_einnahmen",
+   "budget_2023_ausgaben",
+   "budget_2023_einnahmen",
+   "rechnung_2022_ausgaben",
+   "rechnung_2022_einnahmen"
+  ],
+  "summen": 180,
+  "abweichend": 0
+ }
+}

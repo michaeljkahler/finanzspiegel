@@ -1,0 +1,32 @@
+{
+ "pdf": "rechnung2021_detail.pdf",
+ "er": {
+  "konten": 2952,
+  "dienststellen": 125,
+  "fonds": 20,
+  "spalten": [
+   "rechnung_2021",
+   "budget_2021",
+   "rechnung_2020"
+  ],
+  "summen": 459,
+  "abweichend": 0,
+  "kommentare": 882
+ },
+ "ir": {
+  "konten": 119,
+  "vorhaben": 77,
+  "zeilen": 119,
+  "gliederung": "Vorhaben > Konto, netto",
+  "spalten": [
+   "rechnung_2021_ausgaben",
+   "rechnung_2021_einnahmen",
+   "budget_2021_ausgaben",
+   "budget_2021_einnahmen",
+   "rechnung_2020_ausgaben",
+   "rechnung_2020_einnahmen"
+  ],
+  "summen": 318,
+  "abweichend": 0
+ }
+}

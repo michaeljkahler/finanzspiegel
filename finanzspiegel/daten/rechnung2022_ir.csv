@@ -1,0 +1,115 @@
+departement;departement_name;dienststelle;dienststelle_name;spezialfinanzierung;spezialfinanzierung_name;konto;konto_name;projekt;projekt_name;rechnung_2022_ausgaben;rechnung_2022_einnahmen;budget_2022_ausgaben;budget_2022_einnahmen;rechnung_2021_ausgaben;rechnung_2021_einnahmen;seite
+21;Departement des Innern;2131;Gesundheitsamt / Kantonsärztlicher Dienst;;;5440.00;Darlehen - Öffentliche Unternehmungen;IPR0181;Cantosana AG Rückzahlbares Darlehen;;;;;39000.0;;178
+21;Departement des Innern;2131;Gesundheitsamt / Kantonsärztlicher Dienst;;;6440.00;Rückzahlung von Darlehen - Öffentliche Unternehmungen;IPR0181;Cantosana AG Rückzahlbares Darlehen;;39000.0;;;;;178
+21;Departement des Innern;2184;Soziale Einrichtungen;;;5660.00;Private Organisationen ohne Erwerbszweck;IPR0222;VK Stiftung Wohnheim Ungarbühl, Tür- und Schliesssystem;220000.0;;;;;;178
+21;Departement des Innern;2197;IT-Konzernprodukte;;;5440.00;Darlehen - Öffentliche Unternehmungen;IPR0003;Darlehen KSD;1264725.0;;1265000.0;;663300.0;;178
+21;Departement des Innern;2197;IT-Konzernprodukte;;;6440.00;Rückzahlung von Darlehen - Öffentliche Unternehmungen;IPR0003;Darlehen KSD;;1264725.0;;1265000.0;;663300.0;178
+22;Erziehungsdepartement;2201;Departementssekretariat, Mittelschul- und Hochschulbildung;;;5620.00;Gemeinden und Gemeindezweckverbände;IPR0002;Beiträge an Schulhausbauten;;;;;7207594.0;;179
+22;Erziehungsdepartement;2272;Stipendien;;;5470.10;Studiendarlehen;IPR0001;Studiendarlehen;111300.0;;125000.0;;111700.0;;179
+22;Erziehungsdepartement;2272;Stipendien;;;6470.10;Rückzahlung von Studiendarlehen;IPR0001;Studiendarlehen;;148978.0;;75000.0;;47942.0;179
+22;Erziehungsdepartement;2275;Berufsbildungszentrum;;;5540.00;Öffentliche Unternehmungen;IPR0197;Anteilschein Genossenschaft SEBBS;;;;;2000.0;;179
+22;Erziehungsdepartement;2291;Dienststelle Sport, Familie und Jugend (Bereich Sport);;;5650.00;Private Unternehmungen;IPR0195;VK Boulderhalle 2022 (Aranea+);300000.0;;300000.0;;;;179
+23;Baudepartement;2301;Energiefachstelle;;;5620.00;Gemeinden und Gemeindezweckverbände;IPR0009;"VK Begleitung Umsetzung Grossverbraucheranford.; Beiträge an Landwirtschaftsbetriebe betr. Abklärungen Biogasanlagen";;;;;5414.0;;180
+23;Baudepartement;2301;Energiefachstelle;;;5650.00;Private Unternehmungen;IPR0009;"VK Begleitung Umsetzung Grossverbraucheranford.; Beiträge an Landwirtschaftsbetriebe betr. Abklärungen Biogasanlagen";1128.0;;;;915274.0;;180
+23;Baudepartement;2301;Energiefachstelle;;;5660.00;Private Organisationen ohne Erwerbszweck;IPR0009;"VK Begleitung Umsetzung Grossverbraucheranford.; Beiträge an Landwirtschaftsbetriebe betr. Abklärungen Biogasanlagen";16155.0;;;;104618.0;;180
+23;Baudepartement;2301;Energiefachstelle;;;5670.00;Private Haushalte;IPR0009;"VK Begleitung Umsetzung Grossverbraucheranford.; Beiträge an Landwirtschaftsbetriebe betr. Abklärungen Biogasanlagen";2963.0;;;;-117084.0;;180
+23;Baudepartement;2301;Energiefachstelle;;;5620.00;Gemeinden und Gemeindezweckverbände;IPR0010;VK Kantonsbeiträge inbs. zur Unterstützung von Fenster-, Kellerdecken- und Estrichbodensanierungen iRv Gesamtsanierungen;15648.0;;;;;;180
+23;Baudepartement;2301;Energiefachstelle;;;5650.00;Private Unternehmungen;IPR0010;VK Kantonsbeiträge inbs. zur Unterstützung von Fenster-, Kellerdecken- und Estrichbodensanierungen iRv Gesamtsanierungen;81109.0;;;;36100.0;;180
+23;Baudepartement;2301;Energiefachstelle;;;5670.00;Private Haushalte;IPR0010;VK Kantonsbeiträge inbs. zur Unterstützung von Fenster-, Kellerdecken- und Estrichbodensanierungen iRv Gesamtsanierungen;89458.0;;;;196643.0;;180
+23;Baudepartement;2301;Energiefachstelle;;;5620.00;Gemeinden und Gemeindezweckverbände;IPR0011;VK Ergänzendes Förderprogramm Energie Gebäudebereich;45621.0;;;;49626.0;;180
+23;Baudepartement;2301;Energiefachstelle;;;5640.00;Öffentliche Unternehmungen;IPR0011;VK Ergänzendes Förderprogramm Energie Gebäudebereich;40098.0;;;;;;180
+23;Baudepartement;2301;Energiefachstelle;;;5650.00;Private Unternehmungen;IPR0011;VK Ergänzendes Förderprogramm Energie Gebäudebereich;260197.0;;;;53811.0;;180
+23;Baudepartement;2301;Energiefachstelle;;;5660.00;Private Organisationen ohne Erwerbszweck;IPR0011;VK Ergänzendes Förderprogramm Energie Gebäudebereich;40067.0;;;;1429.0;;180
+23;Baudepartement;2301;Energiefachstelle;;;5670.00;Private Haushalte;IPR0011;VK Ergänzendes Förderprogramm Energie Gebäudebereich;1218040.6;;;;978660.25;;180
+23;Baudepartement;2301;Energiefachstelle;;;6320.00;Gemeinde und Gemeindezweckverbände;IPR0011;VK Ergänzendes Förderprogramm Energie Gebäudebereich;;;;;;180817.7;180
+23;Baudepartement;2301;Energiefachstelle;;;5720.00;Durchlaufende Investitionsbeiträge Gemeinden und Gemeindezweckverbände;IPR0012;Förderung Gebäudebereich und Unternehmen für Energieeffizienzmassnahmen und erneuerbare Energien;110750.0;;;;180475.0;;180
+23;Baudepartement;2301;Energiefachstelle;;;5740.00;Durchlaufende Investitionsbeiträge Öffentliche Unternehmungen;IPR0012;Förderung Gebäudebereich und Unternehmen für Energieeffizienzmassnahmen und erneuerbare Energien;87319.0;;;;;;180
+23;Baudepartement;2301;Energiefachstelle;;;5750.00;Durchlaufende Investitionsbeiträge Private Unternehmungen;IPR0012;Förderung Gebäudebereich und Unternehmen für Energieeffizienzmassnahmen und erneuerbare Energien;889669.0;;;;614869.0;;180
+23;Baudepartement;2301;Energiefachstelle;;;5760.00;Durchlaufende Investitionsbeiträge Private Organisationen ohne Erwerbszweck;IPR0012;Förderung Gebäudebereich und Unternehmen für Energieeffizienzmassnahmen und erneuerbare Energien;164422.0;;;;219118.0;;181
+23;Baudepartement;2301;Energiefachstelle;;;5770.00;Durchlaufende Investitionsbeiträge Private Haushalte;IPR0012;Förderung Gebäudebereich und Unternehmen für Energieeffizienzmassnahmen und erneuerbare Energien;3220126.0;;4000000.0;;3035469.0;;181
+23;Baudepartement;2301;Energiefachstelle;;;6700.00;Durchlaufende Investitionsbeiträge Bund;IPR0012;Förderung Gebäudebereich und Unternehmen für Energieeffizienzmassnahmen und erneuerbare Energien;;4472286.0;;4000000.0;;4049931.0;181
+23;Baudepartement;2301;Energiefachstelle;;;5620.00;Gemeinden und Gemeindezweckverbände;IPR0167;VK Förderung von Energieeffizienz und erneuerbaren Energien;11958.0;;;;2000.0;;181
+23;Baudepartement;2301;Energiefachstelle;;;5640.00;Öffentliche Unternehmungen;IPR0167;VK Förderung von Energieeffizienz und erneuerbaren Energien;21133.0;;;;10000.0;;181
+23;Baudepartement;2301;Energiefachstelle;;;5650.00;Private Unternehmungen;IPR0167;VK Förderung von Energieeffizienz und erneuerbaren Energien;212374.0;;;;58000.0;;181
+23;Baudepartement;2301;Energiefachstelle;;;5660.00;Private Organisationen ohne Erwerbszweck;IPR0167;VK Förderung von Energieeffizienz und erneuerbaren Energien;9429.0;;;;4000.0;;181
+23;Baudepartement;2301;Energiefachstelle;;;5670.00;Private Haushalte;IPR0167;VK Förderung von Energieeffizienz und erneuerbaren Energien;567265.0;;1900000.0;;186000.0;;181
+23;Baudepartement;2301;Energiefachstelle;;;6320.00;Gemeinde und Gemeindezweckverbände;IPR0167;VK Förderung von Energieeffizienz und erneuerbaren Energien;;180432.0;;;;;181
+23;Baudepartement;2320;Verwaltung und Projektierung TSH;;;5040.10;Energiemassnahmen und Objektschutz Bestandesbauten Werkhof;IPR0037;Erdbebensicherheit Werkstatt und Fahrzeughalle 1 des Werkhofes;;;;;74903.45;;181
+23;Baudepartement;2320;Verwaltung und Projektierung TSH;;;5620.00;Gemeinden und Gemeindezweckverbände;IPR0059;VK Agglomerationsprogramm Strassen (VK aus Budget 2015);;;;;155672.0;;181
+23;Baudepartement;2320;Verwaltung und Projektierung TSH;;;5010.20;Kunstbauten;IPR0084;VK Sanierung Rheinbrücke Hemishofen;1023644.45;;1325000.0;;908270.65;;181
+23;Baudepartement;2320;Verwaltung und Projektierung TSH;;;5010.10;Kantonsstrassen und kant. Radwegnetz;IPR0089;VK Radweg Wangental;884789.5;;594000.0;;200599.2;;181
+23;Baudepartement;2320;Verwaltung und Projektierung TSH;;;6380.00;Ausland;IPR0089;VK Radweg Wangental;;242486.4;;;;;181
+23;Baudepartement;2320;Verwaltung und Projektierung TSH;;;5010.10;Kantonsstrassen und kant. Radwegnetz;IPR0090;VK FLAMA Galgenbuck Katzensteig bis Ortseingang Neuhausen a. Rhf.;;;;;579538.15;;181
+23;Baudepartement;2320;Verwaltung und Projektierung TSH;;;5010.20;Kunstbauten;IPR0095;VK Neubau Rheinbrücke Rüdlingen;1017435.95;;1750000.0;;1015427.0;;182
+23;Baudepartement;2320;Verwaltung und Projektierung TSH;;;5620.00;Gemeinden und Gemeindezweckverbände;IPR0098;Massnahme 20: Ausbau Busangebot VBSH;;;;;82345.5;;182
+23;Baudepartement;2320;Verwaltung und Projektierung TSH;;;5620.00;Gemeinden und Gemeindezweckverbände;IPR0112;VK Massnahme 22: Rheinuferstrasse / Rheinzugang SH;;;460000.0;;760000.0;;182
+23;Baudepartement;2320;Verwaltung und Projektierung TSH;;;5040.10;Energiemassnahmen und Objektschutz Bestandesbauten Werkhof;IPR0168;VK Ersatz mechanische und elektrische Werkstätten Schweizersbild;325511.25;;200000.0;;;;182
+23;Baudepartement;2320;Verwaltung und Projektierung TSH;;;5040.00;Hochbauten;IPR0169;VK Garagierung mit E-Ladestation Schweizersbild;;;;;301440.65;;182
+23;Baudepartement;2320;Verwaltung und Projektierung TSH;;;5010.10;Kantonsstrassen und kant. Radwegnetz;IPR0173;VK Instandsetzungsinvestitionen 2021;183479.35;;;;2146596.65;;182
+23;Baudepartement;2320;Verwaltung und Projektierung TSH;;;6300.00;Bund;IPR0173;VK Instandsetzungsinvestitionen 2021;;;;;;292326.9;182
+23;Baudepartement;2320;Verwaltung und Projektierung TSH;;;5060.00;Mobilien;IPR0174;VK Ersatzbeschaffung 3-Achs-Lastwagen mit Kipper, Kran, Arbeitskorb und Winterdienstausrüstung;414645.0;;350000.0;;;;182
+23;Baudepartement;2320;Verwaltung und Projektierung TSH;;;5720.00;Durchlaufende Investitionsbeiträge Gemeinden und Gemeindezweckverbände;IPR0183;Durchlaufende Investitionsbeiträge Tiefbau SH;;;;;1688434.0;;183
+23;Baudepartement;2320;Verwaltung und Projektierung TSH;;;5740.00;Durchlaufende Investitionsbeiträge Öffentliche Unternehmungen;IPR0183;Durchlaufende Investitionsbeiträge Tiefbau SH;1177000.0;;;;3000000.0;;183
+23;Baudepartement;2320;Verwaltung und Projektierung TSH;;;6700.00;Durchlaufende Investitionsbeiträge Bund;IPR0183;Durchlaufende Investitionsbeiträge Tiefbau SH;;1177000.0;;;;4688434.0;183
+23;Baudepartement;2320;Verwaltung und Projektierung TSH;;;5060.00;Mobilien;IPR0184;VK 2-Achs-LW mit Kipper und Winterdienstgeräten (Ersatzbeschaffung);90562.0;;335000.0;;;;183
+23;Baudepartement;2320;Verwaltung und Projektierung TSH;;;5060.00;Mobilien;IPR0185;VK Geräuscharme Vollelektrokehrmaschine (Ersatzbeschaffung);256962.1;;280000.0;;;;183
+23;Baudepartement;2320;Verwaltung und Projektierung TSH;;;5010.10;Kantonsstrassen und kant. Radwegnetz;IPR0187;VK Instandsetzungsinvestitionen 2022;1504889.76;;2320000.0;;;;183
+23;Baudepartement;2320;Verwaltung und Projektierung TSH;;;6300.00;Bund;IPR0187;VK Instandsetzungsinvestitionen 2022;;26300.0;;;;;183
+23;Baudepartement;2326;Wasserbau;;;5020.00;Wasserbau;IPR0111;VK Renaturierung Biber Wilerwiese, Ramsen;;;;;780.25;;183
+23;Baudepartement;2332;Liegenschaften Verwaltungsvermögen;;;5040.00;Hochbauten;IPR0021;VK PSZ Neubau Kantonales Sicherheitszentrum;3818300.2;;3000000.0;;2925387.55;;183
+23;Baudepartement;2332;Liegenschaften Verwaltungsvermögen;;;5040.00;Hochbauten;IPR0022;VK SVA Auslagerung Strassenverkehrs- und Schifffahrtsamt;1204860.65;;1000000.0;;32886.45;;183
+23;Baudepartement;2332;Liegenschaften Verwaltungsvermögen;;;5210.00;Lizenzen, Nutzungsrechte, Markenrechte;IPR0022;VK SVA Auslagerung Strassenverkehrs- und Schifffahrtsamt;;;;;2355986.0;;183
+23;Baudepartement;2332;Liegenschaften Verwaltungsvermögen;;;5040.00;Hochbauten;IPR0050;VK GAZ Gemeinsames Ausbildungszentrum Beringen (urspr. BUA Ersatz Zeughaus und Oberwiesen);;;500000.0;;;;184
+23;Baudepartement;2332;Liegenschaften Verwaltungsvermögen;;;5040.00;Hochbauten;IPR0122;VK VDA Verwaltungsgebäude Mühlental Dachsanierung Altbau;45942.4;;200000.0;;135845.6;;184
+23;Baudepartement;2332;Liegenschaften Verwaltungsvermögen;;;5040.00;Hochbauten;IPR0125;VK AAI Kantonsschule Aufwertung Areal und Innenhof Bau G;24504.7;;460000.0;;;;184
+23;Baudepartement;2332;Liegenschaften Verwaltungsvermögen;;;5040.00;Hochbauten;IPR0126;VK PVW Energieerzeugung Photovoltaik Waldhaus;22385.9;;800000.0;;;;184
+23;Baudepartement;2332;Liegenschaften Verwaltungsvermögen;;;5040.00;Hochbauten;IPR0140;VK NSA Neue Schliessanlage Gebäude BBZ;229024.8;;150000.0;;68858.0;;184
+23;Baudepartement;2332;Liegenschaften Verwaltungsvermögen;;;5040.00;Hochbauten;IPR0141;VK SSH Sanierung Stockwerke Hintersteig 12;;;;;196723.95;;184
+23;Baudepartement;2332;Liegenschaften Verwaltungsvermögen;;;5040.00;Hochbauten;IPR0142;VK SNC Sanierung Nebengebäude Charlottenfels;;;500000.0;;;;184
+23;Baudepartement;2332;Liegenschaften Verwaltungsvermögen;;;5040.00;Hochbauten;IPR0143;VK FGW Sanierung Fenster, Garderobe und Wohnung Förderer Turnhalle;110515.15;;;;1206964.25;;184
+23;Baudepartement;2332;Liegenschaften Verwaltungsvermögen;;;5040.00;Hochbauten;IPR0144;UNV Umbau für Neuvermietung Ladenlokal Rathaus Vordergasse 73;;;;;606.65;;184
+23;Baudepartement;2332;Liegenschaften Verwaltungsvermögen;;;5040.00;Hochbauten;IPR0156;VK PST Mieterausbau Polizeistation Thayngen;;;;;267286.6;;185
+23;Baudepartement;2332;Liegenschaften Verwaltungsvermögen;;;5040.00;Hochbauten;IPR0165;VK MUS Sanierung Garderoben Munotsporthalle;836543.64;;850000.0;;;;185
+23;Baudepartement;2332;Liegenschaften Verwaltungsvermögen;;;5000.00;Grundstücke;IPR0166;VK GUK Gestaltung Umgebungsschutzgebiet Kesslerloch;;;500000.0;;;;185
+23;Baudepartement;2332;Liegenschaften Verwaltungsvermögen;;;5000.00;Grundstücke;IPR0176;VK DPZ Durchgangsplatz Ziegelhütte;;;1979600.0;;;;185
+23;Baudepartement;2332;Liegenschaften Verwaltungsvermögen;;;5040.00;Hochbauten;IPR0176;VK DPZ Durchgangsplatz Ziegelhütte;;;50000.0;;;;185
+23;Baudepartement;2332;Liegenschaften Verwaltungsvermögen;;;5040.00;Hochbauten;IPR0178;VK KAG PHSH Kammgarn;9610000.0;;100000.0;;;;185
+23;Baudepartement;2332;Liegenschaften Verwaltungsvermögen;;;5040.00;Hochbauten;IPR0182;VK LLL Landgut Löwenstein, Sanierung Laufhof und Güllengrube;;;;;484376.65;;185
+23;Baudepartement;2332;Liegenschaften Verwaltungsvermögen;;;5040.00;Hochbauten;IPR0188;VK UWT Umnutzung Waschhaus und Terrassensanierung, Herrenacker 3;331919.95;;350000.0;;;;185
+23;Baudepartement;2332;Liegenschaften Verwaltungsvermögen;;;5040.00;Hochbauten;IPR0192;VK UHC Unterhalt Holzwerk/Hülle Schloss Charlottenfels;;;600000.0;;;;185
+23;Baudepartement;2371;Strassenverkehrs- und Schifffahrtsamt;;;6550.00;Private Unternehmungen;IPR0196;RZ Aktienkapital Zentrum für Verkehrssicherheit AG (ZVS AG);;;;;;3000.0;186
+23;Baudepartement;2375;Öffentlicher Verkehr;;;5620.00;Gemeinden und Gemeindezweckverbände;IPR0007;VK S-Bahn Schaffhausen;;;;;526171.5;;186
+23;Baudepartement;2375;Öffentlicher Verkehr;;;5640.00;Öffentliche Unternehmungen;IPR0007;VK S-Bahn Schaffhausen;;;;;138042.85;;186
+23;Baudepartement;2375;Öffentlicher Verkehr;;;5680.00;Eigene Investitionsbeiträge Ausland;IPR0007;VK S-Bahn Schaffhausen;;;;;3052274.0;;186
+23;Baudepartement;2375;Öffentlicher Verkehr;;;6300.00;Bund;IPR0007;VK S-Bahn Schaffhausen;;;;;;181711.0;186
+23;Baudepartement;2375;Öffentlicher Verkehr;;;6620.00;Gemeinde und Gemeindezweckverbände;IPR0007;VK S-Bahn Schaffhausen;;;;;;275980.0;186
+24;Volkswirtschaftsdepartement;2405;Wirtschaftsförderung;;;5650.00;Private Unternehmungen;IPR0064;VK Wirtschaftsförderung 3. Tranche 2010-2019;50000.0;;;;475000.0;;187
+24;Volkswirtschaftsdepartement;2405;Wirtschaftsförderung;;;6450.00;Private Unternehmen;IPR0064;VK Wirtschaftsförderung 3. Tranche 2010-2019;;100000.0;;;;290000.0;187
+24;Volkswirtschaftsdepartement;2405;Wirtschaftsförderung;;;5650.00;Private Unternehmungen;IPR0065;VK Wirtschaftsförderung 4. Tranche 2020-2029 (TP 2020-2023) - Invest.beiträge;799280.0;;1000000.0;;340000.0;;187
+24;Volkswirtschaftsdepartement;2414;Amt für Grundstückschätzungen;;;5200.00;Software;ITP5000;VK Update/Einführung GemDat;36118.05;;50000.0;;168576.5;;187
+24;Volkswirtschaftsdepartement;2440;Landwirtschaftsamt;;;5620.00;Gemeinden und Gemeindezweckverbände;IPR0066;VK Staatsbeiträge an Bodenverbesserungen;;;600000.0;;;;187
+24;Volkswirtschaftsdepartement;2440;Landwirtschaftsamt;;;5620.00;Gemeinden und Gemeindezweckverbände;IPR0067;Beiträge an Meliorationen (Gemeinden und Gemeindezweckverbände);334492.0;;480000.0;;271502.0;;187
+24;Volkswirtschaftsdepartement;2440;Landwirtschaftsamt;;;5650.00;Private Unternehmungen;IPR0067;Beiträge an Meliorationen (Gemeinden und Gemeindezweckverbände);;;250000.0;;152118.0;;187
+24;Volkswirtschaftsdepartement;2440;Landwirtschaftsamt;;;5720.00;Durchlaufende Investitionsbeiträge Gemeinden und Gemeindezweckverbände;IPR0067;Beiträge an Meliorationen (Gemeinden und Gemeindezweckverbände);465066.0;;1500000.0;;376091.0;;187
+24;Volkswirtschaftsdepartement;2440;Landwirtschaftsamt;;;5750.00;Durchlaufende Investitionsbeiträge Private Unternehmungen;IPR0067;Beiträge an Meliorationen (Gemeinden und Gemeindezweckverbände);;;250000.0;;194910.0;;187
+24;Volkswirtschaftsdepartement;2440;Landwirtschaftsamt;;;6700.00;Durchlaufende Investitionsbeiträge Bund;IPR0067;Beiträge an Meliorationen (Gemeinden und Gemeindezweckverbände);;465066.0;;1500000.0;;;187
+24;Volkswirtschaftsdepartement;2440;Landwirtschaftsamt;;;6720.00;Durchlaufende Investitionsbeiträge Gemeinde und Gemeindezweckverbände;IPR0067;Beiträge an Meliorationen (Gemeinden und Gemeindezweckverbände);;;;;;376091.0;187
+24;Volkswirtschaftsdepartement;2440;Landwirtschaftsamt;;;6750.00;Durchlaufende Investitionsbeiträge Private Unternehmungen;IPR0067;Beiträge an Meliorationen (Gemeinden und Gemeindezweckverbände);;;;250000.0;;194910.0;187
+24;Volkswirtschaftsdepartement;2440;Landwirtschaftsamt;;;5290.00;Übrige immaterielle Anlagen;IPR0179;VK Bodenkartierung;;;300000.0;;;;188
+24;Volkswirtschaftsdepartement;2440;Landwirtschaftsamt;;;5550.00;Private Unternehmungen;IPR0180;Erhöhung Beteiligung Genossenschaft Olma Messen St. Gallen;;;;;20000.0;;188
+24;Volkswirtschaftsdepartement;2440;Landwirtschaftsamt;;;5650.00;Private Unternehmungen;IPR0221;Beiträge für Hochbaumassnahmen (Private Unternehmungen);163939.0;;;;;;188
+24;Volkswirtschaftsdepartement;2440;Landwirtschaftsamt;;;5750.00;Durchlaufende Investitionsbeiträge Private Unternehmungen;IPR0221;Beiträge für Hochbaumassnahmen (Private Unternehmungen);193139.0;;;;;;188
+24;Volkswirtschaftsdepartement;2440;Landwirtschaftsamt;;;6700.00;Durchlaufende Investitionsbeiträge Bund;IPR0221;Beiträge für Hochbaumassnahmen (Private Unternehmungen);;193139.0;;;;;188
+24;Volkswirtschaftsdepartement;2498;;2498.7004;Generationenfonds;6460.00;Private Organisationen ohne Erwerbszweck;IPR0068;NRP-Investitionsdarlehen Bund;;800000.0;;;;400000.0;188
+25;Finanzdepartement;2524;Steuerverwaltung;;;5200.00;Software;ITP5005;VK E-Filing Steuererklärung NP (urspr. ITP0079);10275.75;;;;142514.7;;189
+25;Finanzdepartement;2524;Steuerverwaltung;;;5200.00;Software;ITP5006;VK Refactoring NEST (urspr. ITP0003);566243.49;;543000.0;;482304.4;;189
+25;Finanzdepartement;2524;Steuerverwaltung;;;5200.00;Software;ITP5008;VK Nest.deq;126848.09;;50000.0;;;;189
+25;Finanzdepartement;2532;Ertrag der Aktiv-Kapitalien;;;5540.10;Konversion Tranche Dotationskapital SHKB;IPR0130;Konversion Dotationskapital SHKB;10000000.0;;10000000.0;;10000000.0;;189
+25;Finanzdepartement;2532;Ertrag der Aktiv-Kapitalien;;;6540.10;Konversion Tranche Dotationskapital SHKB;IPR0130;Konversion Dotationskapital SHKB;;10000000.0;;10000000.0;;10000000.0;189
+25;Finanzdepartement;2550;Schaffhauser Polizei;;;5060.00;Mobilien;ITP5001;VK POLYCOM 2030;350339.05;;400000.0;;;;189
+25;Finanzdepartement;2551;Kantonale Feuerpolizei;;;5060.00;Mobilien;IPR0209;VK Beschaffung Mehrzweckschiff;125000.0;;;;;;189
+25;Finanzdepartement;2557;Amt für Bevölkerungsschutz und Armee;;;5040.00;Hochbauten;IPR0164;VK Ausbau Schutzanlage Kiesgrube zum geschützten KFO Führungsstandort;;;254500.0;;;;189
+25;Finanzdepartement;2557;Amt für Bevölkerungsschutz und Armee;;;5060.00;Mobilien;IPR0164;VK Ausbau Schutzanlage Kiesgrube zum geschützten KFO Führungsstandort;;;177000.0;;;;189
+25;Finanzdepartement;2557;Amt für Bevölkerungsschutz und Armee;;;6300.00;Bund;IPR0164;VK Ausbau Schutzanlage Kiesgrube zum geschützten KFO Führungsstandort;;;;106500.0;;;190
+25;Finanzdepartement;2598;;2598.7256;Brandschutzfonds;5620.00;Gemeinden und Gemeindezweckverbände;IPR0138;Investitionsbeiträge Brandschutzfonds an Löschwasserversorgung;2028141.3;;;;946323.55;;190
+25;Finanzdepartement;2598;;2598.7256;Brandschutzfonds;5620.00;Gemeinden und Gemeindezweckverbände;IPR0175;Investitionsbeiträge an Fahrzeuge;1531392.75;;1910000.0;;1831926.15;;190

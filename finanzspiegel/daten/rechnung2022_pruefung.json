@@ -1,0 +1,32 @@
+{
+ "pdf": "rechnung2022_detail.pdf",
+ "er": {
+  "konten": 2918,
+  "dienststellen": 124,
+  "fonds": 21,
+  "spalten": [
+   "rechnung_2022",
+   "budget_2022",
+   "rechnung_2021"
+  ],
+  "summen": 459,
+  "abweichend": 0,
+  "kommentare": 892
+ },
+ "ir": {
+  "konten": 114,
+  "vorhaben": 68,
+  "zeilen": 114,
+  "gliederung": "Vorhaben > Konto, netto",
+  "spalten": [
+   "rechnung_2022_ausgaben",
+   "rechnung_2022_einnahmen",
+   "budget_2022_ausgaben",
+   "budget_2022_einnahmen",
+   "rechnung_2021_ausgaben",
+   "rechnung_2021_einnahmen"
+  ],
+  "summen": 288,
+  "abweichend": 0
+ }
+}
