@@ -239,7 +239,33 @@ function zuSeite(seite, params){
 }
 
 /* ── Rahmen: Menü, Abschnitte ────────────────────────────────────────── */
+/* Hell oder dunkel: ohne Wahl gilt die Einstellung des Geräts */
+function themaAktuell(){
+  const t = document.documentElement.getAttribute('data-theme');
+  if(t === 'light' || t === 'dark') return t;
+  return (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) ? 'dark' : 'light';
+}
+function themaKnopf(){
+  const b = $('#themaKnopf'); if(!b) return;
+  const dunkel = themaAktuell() === 'dark';
+  b.classList.toggle('zu-dunkel', !dunkel);
+  b.querySelector('span').textContent = dunkel ? 'Hell' : 'Dunkel';
+  b.title = dunkel ? 'Auf hellen Hintergrund umschalten' : 'Auf dunklen Hintergrund umschalten';
+  b.setAttribute('aria-label', b.title);
+}
 function rahmenInit(){
+  const tk = $('#themaKnopf');
+  if(tk){
+    themaKnopf();
+    tk.addEventListener('click', () => {
+      const neu = themaAktuell() === 'dark' ? 'light' : 'dark';
+      document.documentElement.setAttribute('data-theme', neu);
+      speicher.setze('thema', neu);
+      themaKnopf();
+      try{ if(typeof allesZeichnen === 'function') allesZeichnen(); }catch(e){}
+    });
+    if(window.matchMedia) window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', themaKnopf);
+  }
   const knopf = $('#menuKnopf');
   if(knopf){
     const zu = () => { document.body.classList.remove('menu-offen'); knopf.setAttribute('aria-expanded', 'false'); };

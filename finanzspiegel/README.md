@@ -144,6 +144,11 @@ drei Datensätzen (A aussen), Woher und wohin, Entwicklung, Kennzahlen; Ebene w�
 bis «alle Konten»; Formate 4:5 (1080 × 1350), 16:9 (1920 × 1080), 3:2 (1800 × 1200);
 PNG oder Zwischenablage. Die Grafik zeichnet die gewählte Ansicht, ohne eigene Rechnung.
 
+Hell oder dunkel: Knopf oben rechts in der Kopfzeile. Ohne Wahl gilt die Einstellung des
+Geräts; die Wahl merkt sich der Browser (`localStorage`, Schlüssel `fs-thema`) und gilt auf
+allen Seiten. «Fehler melden» steht unten links: am Desktop am Fuss der Seitenleiste, auf
+schmalen Bildschirmen schwebend in der Ecke.
+
 Jede Ansicht steht in der Adresse (`#d=b27,b26&r=er&g=inst&a=A&u=ord&p=d22/s2210`)
 und lässt sich teilen.
 

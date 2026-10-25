@@ -160,6 +160,10 @@ def seitenliste(aktiv: str, basis: str, unterpunkte: list[tuple[str, str]]) -> s
 
 LUPE = ('<svg class="lupe" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" '
         'aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="M20 20l-4.2-4.2"/></svg>')
+SONNE = ('<svg class="sonne" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true">'
+         '<circle cx="12" cy="12" r="4.5"/><path d="M12 2v2.5M12 19.5V22M2 12h2.5M19.5 12H22M4.9 4.9l1.8 1.8M17.3 17.3l1.8 1.8M4.9 19.1l1.8-1.8M17.3 6.7l1.8-1.8"/></svg>')
+MOND = ('<svg class="mond" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">'
+        '<path d="M20 14.5A8 8 0 1 1 9.5 4a6.5 6.5 0 0 0 10.5 10.5z"/></svg>')
 MENU = ('<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true">'
         '<path d="M4 7h16M4 12h16M4 17h16"/></svg>')
 GRAFIK_DIALOG = """
@@ -251,6 +255,7 @@ def seite_html(key: str, titel: str, beschreibung: str, inhalt: str, D: dict, ve
 <link rel="icon" href="{basis}favicon.png" sizes="32x32" type="image/png">
 <link rel="apple-touch-icon" href="{basis}apple-touch-icon.png">
 <meta name="theme-color" content="#0B0F14">
+<script>try{{var t=localStorage.getItem("fs-thema");if(t==="light"||t==="dark")document.documentElement.setAttribute("data-theme",t);}}catch(e){{}}</script>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Archivo:wght@500;600;700&family=Public+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
@@ -266,13 +271,15 @@ def seite_html(key: str, titel: str, beschreibung: str, inhalt: str, D: dict, ve
     <input id="sucheGlobal" type="search" autocomplete="off" spellcheck="false" placeholder="Suchen: Dienststelle, Konto, Begriff, Stichwort" aria-controls="sucheGlobalListe" aria-autocomplete="list">
     <ul id="sucheGlobalListe" class="global" role="listbox" hidden></ul>
   </div>
+  <button type="button" class="thema-knopf" id="themaKnopf" title="Hell oder dunkel">{SONNE}{MOND}<span>Hell</span></button>
 </header>
 <div class="schleier" id="schleier"></div>
 <div class="rahmen">
 <nav class="seitenleiste" id="seitenleiste" aria-label="Seiten des Finanzspiegels">
   <a class="zurueck" href="{e(POLITSPIEGEL)}">&larr; Politspiegel Schaffhausen</a>
   {seitenliste(key, basis, unterpunkte or [])}
-  <div class="leiste-fuss">Stand der Daten <span id="standLeiste">{stand}</span><br>Rechnung 2021–2025, Budget 2021–2027, Finanzplan bis 2030<br>{melden_knopf_html("melden-inline")}</div>
+  <div class="leiste-fuss">Stand der Daten <span id="standLeiste">{stand}</span><br>Rechnung 2021–2025, Budget 2021–2027, Finanzplan bis 2030</div>
+  <div class="leiste-melden">{melden_knopf_html("melden-inline")}</div>
 </nav>
 <main class="haupt" id="inhalt">
 <p class="hinweis" id="ladefehler" hidden></p>
@@ -287,7 +294,7 @@ def seite_html(key: str, titel: str, beschreibung: str, inhalt: str, D: dict, ve
 <div class="tip" id="tip" role="tooltip"></div>
 <div class="pop" id="pop"></div>
 {GRAFIK_DIALOG if grafik else ""}
-{melden_html("Finanzspiegel: " + titel, schwebend=False)}
+{melden_html("Finanzspiegel: " + titel, schwebend=True)}
 <script src="{basis}assets/finanzspiegel.js?v={version}"></script>
 </body>
 </html>
