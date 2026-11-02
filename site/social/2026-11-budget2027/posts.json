@@ -91,7 +91,7 @@
   {
    "art": "bild",
    "netz": "instagram",
-   "termin": "2026-11-30T09:00",
+   "termin": "2026-11-27T09:00",
    "media": [
     "https://michaeljkahler.github.io/finanzspiegel/social/2026-11-budget2027/04-budget-rechnung-2025.png"
    ],
@@ -110,10 +110,11 @@
     "isAiGenerated": false
    },
    "metricool": {
-    "id": 413854776,
+    "id": 413908865,
     "uuid": "3207843119998519805",
-    "termin": "2026-11-30T09:00",
-    "angelegt": "2026-11-02"
+    "termin": "2026-11-27T09:00",
+    "angelegt": "2026-11-02",
+    "geaendert": "2026-11-02"
    }
   }
  ]
